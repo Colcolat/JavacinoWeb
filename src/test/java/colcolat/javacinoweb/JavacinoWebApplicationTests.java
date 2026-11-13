@@ -1,0 +1,13 @@
+package colcolat.javacinoweb;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class JavacinoWebApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
